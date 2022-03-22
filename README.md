@@ -2,7 +2,7 @@
 # Description and screenshot
 Simple Manjaro Themed Bar for Polybar | ArchLinux
 
-Using cutting edge technologie and my complet knowledge of what I am doing (lol no), I created this very simple and very basic theme for Polybar. 
+Using cutting edge technology and my complete knowledge of what I am doing (lol no), I created this very simple and very basic theme for Polybar. 
 
 **The bar :**
 ![bar](https://user-images.githubusercontent.com/77797484/158819552-3f16fe96-8e79-42de-84f7-82872778a1b0.png)
